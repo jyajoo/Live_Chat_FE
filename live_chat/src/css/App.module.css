@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-color: #799090;
+  justify-content: center;
+  align-items: center;
+}
+#content {
+  background-color: #f0ece8;
+  padding: 5%;
+  width: 40vw;
+  height: 50vh;
+}
